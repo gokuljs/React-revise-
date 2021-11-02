@@ -1,5 +1,5 @@
 // promise is like no matter what it will have an value in the end 
-const mypromise=new Promise((resolve,reject)=>{
+const mypromise=new Promise((resolve,reject)=>{ // you intialize an value in 
     if (false){
         setTimeout(()=>{
             resolve("i have succeded");
