@@ -5,3 +5,12 @@
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap:20px;
 }
+.container-3{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.container-3-box{
+    flex-basis: 17%;
+}

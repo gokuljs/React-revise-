@@ -1,0 +1,22 @@
+.parent{
+    background-color: aqua;
+    width:200px;
+    padding:20px;
+    margin:0 auto;
+    position: relative;
+}
+.child-one{
+    background-color: blanchedalmond;
+    padding:30px;
+    position: absolute;
+    left:40px;
+    bottom:-100px;
+}
+.child-two{
+    background-color: blueviolet;
+    padding:30px;
+}
+.child-three{
+    background-color: brown;
+    padding:30px;
+}
